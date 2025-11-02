@@ -1,0 +1,2546 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-10-17T05:53:24.987Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Organic Cotton Hoodie - Blue",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-10-17T05:54:02.550Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Striped Polo Set - Navy/White",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-10-17T05:54:44.297Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Denim Jacket with Patches",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-10-17T05:55:29.723Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Cargo Joggers - Olive Green",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-10-17T06:04:41.268Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Swim Trunks - Shark Print",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-10-17T06:06:00.627Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Flannel Shirt - Red/Black",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-10-17T06:06:38.705Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Athletic Sneakers - Black",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-10-17T06:07:35.648Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Tulle Princess Dress - Pink",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-10-17T06:08:25.202Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Floral Sundress - Yellow",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-10-17T06:08:58.747Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Unicorn Hoodie - Lavender",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-10-17T06:09:34.855Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Leopard Print Leggings",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-10-17T06:10:13.651Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "Party Tutu Skirt - Silver",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-10-17T06:10:54.460Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "Strawberry Print Pajama Set",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-10-17T06:11:33.238Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "Mary Jane Shoes - Red",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-10-17T06:12:26.944Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "Personalized Denim Jacket",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-10-17T06:13:14.321Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "Montessori Wooden Cube",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-10-17T06:15:27.519Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "18",
+    "object_repr": "Interactive Learning Tablet",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-10-17T06:19:54.117Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "19",
+    "object_repr": "Plush Rocking Horse",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-10-17T06:21:22.257Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "20",
+    "object_repr": "Building Blocks Set (102pc)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-10-17T06:22:02.642Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "21",
+    "object_repr": "Musical Instrument Set",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-10-17T06:22:44.407Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "22",
+    "object_repr": "Pull-Along Wooden Duck",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-10-17T06:23:40.002Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "23",
+    "object_repr": "Stacking Rainbow Rings",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-10-17T06:24:57.076Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "24",
+    "object_repr": "Soft Book - Jungle Animals",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-10-19T08:11:13.094Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Fiyaa - Denim Jacket with Patches",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-10-19T08:11:25.670Z",
+    "user": 2,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "Fiyaa - Denim Jacket with Patches",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-10-20T05:31:33.299Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Fiyaa - Cargo Joggers - Olive Green",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-10-20T05:31:33.299Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Fiyaa - Denim Jacket with Patches",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-10-20T05:31:33.299Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Fiyaa - Denim Jacket with Patches",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-10-20T05:31:33.299Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Fiyaa - Striped Polo Set - Navy/White",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-10-20T06:22:30.112Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Fiyaa - Flannel Shirt - Red/Black",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-10-20T06:22:30.112Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Fiyaa - Cargo Joggers - Olive Green",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-10-20T06:22:30.112Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Fiyaa - Swim Trunks - Shark Print",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-10-20T06:22:30.112Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Fiyaa - Striped Polo Set - Navy/White",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-10-20T06:22:30.112Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Fiyaa - Denim Jacket with Patches",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-10-20T15:11:15.747Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "CO0P4GYFON",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-10-20T15:11:15.747Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "6XLXQEXAWI",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-10-20T15:11:15.747Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "JJPRSZEULD",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-10-20T15:11:15.747Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Z0TMLG3SYY",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-10-20T15:11:15.747Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "X6S8VRLIIC",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-10-20T15:14:33.064Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "UFCYSBFPYS",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-10-21T04:01:56.745Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Manager",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-10-21T04:08:54.029Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Manager",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-10-21T06:55:33.505Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Manager",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-10-21T06:56:21.316Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Manager",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-10-21T08:26:14.446Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Admin1",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-10-21T08:45:04.137Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Manager",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-10-21T08:45:20.277Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Admin1",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-10-21T14:08:57.484Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Admin1",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-10-22T09:02:06.829Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "24",
+    "object_repr": "Soft Book - Jungle Animals",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-10-22T09:02:13.395Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "23",
+    "object_repr": "Stacking Rainbow Rings",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-10-22T09:02:22.125Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "22",
+    "object_repr": "Pull-Along Wooden Duck",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-10-22T09:02:29.662Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "18",
+    "object_repr": "Interactive Learning Tablet",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-10-22T09:02:39.392Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "21",
+    "object_repr": "Musical Instrument Set",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-10-22T09:02:46.054Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "22",
+    "object_repr": "Pull-Along Wooden Duck",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-10-22T09:02:53.381Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "20",
+    "object_repr": "Building Blocks Set (102pc)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-10-22T09:03:02.506Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "19",
+    "object_repr": "Plush Rocking Horse",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-10-22T09:03:06.894Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "18",
+    "object_repr": "Interactive Learning Tablet",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-10-22T09:04:04.927Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "Montessori Wooden Cube",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-10-22T09:04:11.498Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "Personalized Denim Jacket",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-10-22T09:04:25.458Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "Mary Jane Shoes - Red",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-10-22T09:04:34.480Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "Strawberry Print Pajama Set",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2025-10-22T09:05:11.544Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "Strawberry Print Pajama Set",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2025-10-22T09:05:26.112Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "Party Tutu Skirt - Silver",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2025-10-22T09:06:11.177Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Leopard Print Leggings",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2025-10-22T09:06:18.555Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Unicorn Hoodie - Lavender",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2025-10-22T09:06:23.417Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Unicorn Hoodie - Lavender",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2025-10-22T09:06:29.551Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Unicorn Hoodie - Lavender",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2025-10-22T09:06:38.078Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Floral Sundress - Yellow",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2025-10-22T09:06:48.453Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Tulle Princess Dress - Pink",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2025-10-22T09:06:57.178Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Athletic Sneakers - Black",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2025-10-22T09:07:03.906Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Flannel Shirt - Red/Black",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2025-10-22T09:07:11.228Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Flannel Shirt - Red/Black",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2025-10-22T09:07:19.187Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Swim Trunks - Shark Print",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2025-10-22T09:07:29.705Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Dinosaur Print T-Shirt",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2025-10-22T09:07:41.423Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Cargo Joggers - Olive Green",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2025-10-22T09:07:50.371Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Denim Jacket with Patches",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2025-10-22T09:08:00.116Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Striped Polo Set - Navy/White",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2025-10-22T09:08:07.282Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Organic Cotton Hoodie - Blue",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Age range\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2025-10-22T09:08:12.224Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Organic Cotton Hoodie - Blue",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2025-10-22T09:22:38.624Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Basil",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2025-10-22T09:22:46.001Z",
+    "user": 2,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Favas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 4,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 4,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 4,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 4,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 5,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 5,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 5,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 5,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add order item",
+    "content_type": 6,
+    "codename": "add_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change order item",
+    "content_type": 6,
+    "codename": "change_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete order item",
+    "content_type": 6,
+    "codename": "delete_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view order item",
+    "content_type": 6,
+    "codename": "view_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add product",
+    "content_type": 7,
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change product",
+    "content_type": 7,
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete product",
+    "content_type": 7,
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view product",
+    "content_type": 7,
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 8,
+    "codename": "add_customuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 8,
+    "codename": "change_customuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 8,
+    "codename": "delete_customuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 8,
+    "codename": "view_customuser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add order",
+    "content_type": 9,
+    "codename": "add_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change order",
+    "content_type": 9,
+    "codename": "change_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete order",
+    "content_type": 9,
+    "codename": "delete_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view order",
+    "content_type": 9,
+    "codename": "view_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add cart",
+    "content_type": 10,
+    "codename": "add_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change cart",
+    "content_type": 10,
+    "codename": "change_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete cart",
+    "content_type": 10,
+    "codename": "delete_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view cart",
+    "content_type": 10,
+    "codename": "view_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add whishlist",
+    "content_type": 11,
+    "codename": "add_whishlist"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change whishlist",
+    "content_type": 11,
+    "codename": "change_whishlist"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete whishlist",
+    "content_type": 11,
+    "codename": "delete_whishlist"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view whishlist",
+    "content_type": 11,
+    "codename": "view_whishlist"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add wishlist",
+    "content_type": 12,
+    "codename": "add_wishlist"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change wishlist",
+    "content_type": 12,
+    "codename": "change_wishlist"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete wishlist",
+    "content_type": 12,
+    "codename": "delete_wishlist"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view wishlist",
+    "content_type": 12,
+    "codename": "view_wishlist"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "backend",
+    "model": "orderitem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "backend",
+    "model": "product"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "backend",
+    "model": "customuser"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "backend",
+    "model": "order"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "backend",
+    "model": "cart"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "backend",
+    "model": "whishlist"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "backend",
+    "model": "wishlist"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "kg5orj225mctsphbwaecu64jbyra88g2",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSHIdKC4dN9vIDM8pGogKe3K-O_apAvd3nPOfQlP21r81tPi5yguQovT78YUHqnuIN6p3poMra7LzHJX5EG7nFpMz-vh_h0U6uVbDzYiEMDICRHwPDingEGjtsQcjaNgh-wM5aw5GMuQsxojGhOyVgTi_QHPUzfW:1v9RV2:zFOscxgf6ADMJz79ux6YkcDC7Rh1ZP9tk4x2FEE-PB8",
+    "expire_date": "2025-10-30T17:10:48.172Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "spmis59ldd3o1t6wvyt6jtfbbw3aar41",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSHIdKC4dN9vIDM8pGogKe3K-O_apAvd3nPOfQlP21r81tPi5yguQovT78YUHqnuIN6p3poMra7LzHJX5EG7nFpMz-vh_h0U6uVbDzYiEMDICRHwPDingEGjtsQcjaNgh-wM5aw5GMuQsxojGhOyVgTi_QHPUzfW:1vCDtC:Gpre9M6PMwv_mDea7O8YNGG0FafpTgexi_45rNravrM",
+    "expire_date": "2025-11-07T09:15:14.713Z"
+  }
+},
+{
+  "model": "backend.customuser",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$mjfwQn8BE9wI8HWnmNp5Ac$dn5gKXfEmfuIvTY+LAVHuEScx5DI7cMltqp22ECSmsE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Favas",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-10-16T17:08:50Z",
+    "email": "lalu@gmail.com",
+    "phone": "1234589011",
+    "role": "user",
+    "terms": true,
+    "is_verified": true,
+    "otp": null,
+    "otp_created_at": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "backend.customuser",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$1UQUlVsQov4xfbfjDvaM1A$54M7br4/EaBp6q8FCx9TWHWc7NsID7Vp5UVM6vy4NrU=",
+    "last_login": "2025-10-24T09:15:14.677Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-10-16T17:10:32.116Z",
+    "email": "admin@gmail.com",
+    "phone": "",
+    "role": "user",
+    "terms": false,
+    "is_verified": false,
+    "otp": null,
+    "otp_created_at": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "backend.customuser",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$VFdEQhbf3iOZ7bgdjbtvFv$OPfc+xDsaIk89MKotreYYSSfSq+R4AmPEWjRO1cBJUc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Fiyaa",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-10-17T04:29:19.039Z",
+    "email": "fathimafiyanoushin@gmail.com",
+    "phone": "6238848783",
+    "role": "user",
+    "terms": true,
+    "is_verified": true,
+    "otp": null,
+    "otp_created_at": "2025-10-20T11:35:56.178Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "backend.customuser",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$zXkSnJks3jRTTYiGTQPpzN$VffV1GbJlSVxa8TwcTyNmQdDfiyLmat8HdsAQrzd2xw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Basil",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-10-17T14:45:25Z",
+    "email": "basil@gmail.com",
+    "phone": "1234567890",
+    "role": "user",
+    "terms": true,
+    "is_verified": true,
+    "otp": null,
+    "otp_created_at": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "backend.customuser",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$lacjWSPBvg9k37JCg71D09$TvciMa04mfYN5V0j8yIohgLB+e6sBZPW8t9hMkJfPsM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Admin1",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-10-21T08:25:29Z",
+    "email": "admin1@gmail.com",
+    "phone": "9765432100",
+    "role": "admin",
+    "terms": true,
+    "is_verified": true,
+    "otp": null,
+    "otp_created_at": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "backend.customuser",
+  "pk": 9,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$fzudEDq2r1eJbGczhfm9km$u6I5jHir9ctQidAx1Us3zZDL516yoOCR6/O9idJW260=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Nishad",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-10-22T10:12:16.504Z",
+    "email": "nishad@gmail.com",
+    "phone": "7356206455",
+    "role": "user",
+    "terms": true,
+    "is_verified": true,
+    "otp": null,
+    "otp_created_at": "2025-10-22T10:18:56.451Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 1,
+  "fields": {
+    "created_at": "2025-10-17T05:53:24.718Z",
+    "updated_at": "2025-10-22T09:08:12.220Z",
+    "category": "boys",
+    "age_range": "1-2",
+    "name": "Organic Cotton Hoodie - Blue",
+    "image": "products/swim-trunks.jpg",
+    "description": "Soft organic cotton hoodie with kangaroo pocket",
+    "price": "599.00",
+    "stock": 20,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 2,
+  "fields": {
+    "created_at": "2025-10-17T05:54:02.547Z",
+    "updated_at": "2025-10-22T09:08:00.113Z",
+    "category": "boys",
+    "age_range": "1-2",
+    "name": "Striped Polo Set - Navy/White",
+    "image": "products/striped-polo-set.jpg",
+    "description": "2-piece polo and shorts set for smart casual wear",
+    "price": "449.00",
+    "stock": 20,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 3,
+  "fields": {
+    "created_at": "2025-10-17T05:54:44.273Z",
+    "updated_at": "2025-10-22T09:07:50.367Z",
+    "category": "boys",
+    "age_range": "1-2",
+    "name": "Denim Jacket with Patches",
+    "image": "products/denim-jacket.jpg",
+    "description": "Lightweight denim jacket with fun embroidered patches",
+    "price": "799.00",
+    "stock": 10,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 4,
+  "fields": {
+    "created_at": "2025-10-17T05:55:29.701Z",
+    "updated_at": "2025-10-22T09:07:41.420Z",
+    "category": "boys",
+    "age_range": "0-6",
+    "name": "Cargo Joggers - Olive Green",
+    "image": "products/cargo-joggers.jpg",
+    "description": "Stylish joggers with multiple pockets",
+    "price": "499.00",
+    "stock": 10,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 5,
+  "fields": {
+    "created_at": "2025-10-17T06:02:59.202Z",
+    "updated_at": "2025-10-22T09:07:29.703Z",
+    "category": "boys",
+    "age_range": "6-12",
+    "name": "Dinosaur Print T-Shirt",
+    "image": "products/dino-tee.jpg",
+    "description": "100% cotton tee with fun dinosaur graphic",
+    "price": "299.00",
+    "stock": 10,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 6,
+  "fields": {
+    "created_at": "2025-10-17T06:04:41.248Z",
+    "updated_at": "2025-10-22T09:07:19.184Z",
+    "category": "boys",
+    "age_range": "0-6",
+    "name": "Swim Trunks - Shark Print",
+    "image": "products/kids-blue-hoodie.jpg",
+    "description": "Quick-dry swimwear with UPF 50+ protection",
+    "price": "349.00",
+    "stock": 15,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 7,
+  "fields": {
+    "created_at": "2025-10-17T06:06:00.623Z",
+    "updated_at": "2025-10-22T09:07:11.225Z",
+    "category": "boys",
+    "age_range": "0-6",
+    "name": "Flannel Shirt - Red/Black",
+    "image": "products/flannel-shirt.jpg",
+    "description": "Soft brushed cotton flannel shirt",
+    "price": "549.00",
+    "stock": 15,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 8,
+  "fields": {
+    "created_at": "2025-10-17T06:06:38.686Z",
+    "updated_at": "2025-10-22T09:06:57.175Z",
+    "category": "boys",
+    "age_range": "2-3",
+    "name": "Athletic Sneakers - Black",
+    "image": "products/athletic-sneakers_7rrJJzl.jpg",
+    "description": "Lightweight sneakers with non-slip sole",
+    "price": "899.00",
+    "stock": 10,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 9,
+  "fields": {
+    "created_at": "2025-10-17T06:07:35.643Z",
+    "updated_at": "2025-10-22T09:06:48.450Z",
+    "category": "girls",
+    "age_range": "6-12",
+    "name": "Tulle Princess Dress - Pink",
+    "image": "products/princess-dress.jpg",
+    "description": "Sparkly tulle dress with satin ribbon",
+    "price": "899.00",
+    "stock": 20,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 10,
+  "fields": {
+    "created_at": "2025-10-17T06:08:25.200Z",
+    "updated_at": "2025-10-22T09:06:38.075Z",
+    "category": "girls",
+    "age_range": "6-12",
+    "name": "Floral Sundress - Yellow",
+    "image": "products/floral-sundress.jpg",
+    "description": "Lightweight cotton dress with smocked top",
+    "price": "649.00",
+    "stock": 10,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 11,
+  "fields": {
+    "created_at": "2025-10-17T06:08:58.743Z",
+    "updated_at": "2025-10-22T09:06:29.547Z",
+    "category": "girls",
+    "age_range": "2-3",
+    "name": "Unicorn Hoodie - Lavender",
+    "image": "products/unicorn-hoodie.jpg",
+    "description": "Cozy fleece hoodie with unicorn horn hood",
+    "price": "599.00",
+    "stock": 30,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 12,
+  "fields": {
+    "created_at": "2025-10-17T06:09:34.821Z",
+    "updated_at": "2025-10-22T09:06:09.526Z",
+    "category": "girls",
+    "age_range": "6-12",
+    "name": "Leopard Print Leggings",
+    "image": "products/leggings.jpg",
+    "description": "Stretchy leggings with fun animal print",
+    "price": "399.00",
+    "stock": 15,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 13,
+  "fields": {
+    "created_at": "2025-10-17T06:10:13.647Z",
+    "updated_at": "2025-10-22T09:05:26.109Z",
+    "category": "girls",
+    "age_range": "1-2",
+    "name": "Party Tutu Skirt - Silver",
+    "image": "products/tutu-skirt.jpg",
+    "description": "Sparkly layered tutu for special occasions",
+    "price": "499.00",
+    "stock": 25,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 14,
+  "fields": {
+    "created_at": "2025-10-17T06:10:54.457Z",
+    "updated_at": "2025-10-22T09:05:11.542Z",
+    "category": "girls",
+    "age_range": "6-12",
+    "name": "Strawberry Print Pajama Set",
+    "image": "products/pajama-set.jpg",
+    "description": "Organic cotton PJ set with matching top and bottom",
+    "price": "449.00",
+    "stock": 15,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 15,
+  "fields": {
+    "created_at": "2025-10-17T06:11:33.234Z",
+    "updated_at": "2025-10-22T09:04:25.455Z",
+    "category": "girls",
+    "age_range": "2-3",
+    "name": "Mary Jane Shoes - Red",
+    "image": "products/mary-janes.jpg",
+    "description": "Classic shoes with comfortable cushioned soles",
+    "price": "799.00",
+    "stock": 15,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 16,
+  "fields": {
+    "created_at": "2025-10-17T06:12:26.923Z",
+    "updated_at": "2025-10-22T09:04:11.496Z",
+    "category": "girls",
+    "age_range": "1-2",
+    "name": "Personalized Denim Jacket",
+    "image": "products/denim.jpg",
+    "description": "Customizable jacket with embroidered name",
+    "price": "999.00",
+    "stock": 10,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 17,
+  "fields": {
+    "created_at": "2025-10-17T06:13:14.318Z",
+    "updated_at": "2025-10-22T09:04:04.925Z",
+    "category": "toys",
+    "age_range": "6-12",
+    "name": "Montessori Wooden Cube",
+    "image": "products/activity-cube.jpg",
+    "description": "5-sided educational toy with beads, gears, and shapes",
+    "price": "1299.00",
+    "stock": 20,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 18,
+  "fields": {
+    "created_at": "2025-10-17T06:15:27.516Z",
+    "updated_at": "2025-10-22T09:03:06.890Z",
+    "category": "toys",
+    "age_range": "2-3",
+    "name": "Interactive Learning Tablet",
+    "image": "products/learning-tablet.jpg",
+    "description": "Child-safe tablet with ABCs, numbers, and songs",
+    "price": "899.00",
+    "stock": 10,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 19,
+  "fields": {
+    "created_at": "2025-10-17T06:19:54.114Z",
+    "updated_at": "2025-10-22T09:03:02.504Z",
+    "category": "toys",
+    "age_range": "2-3",
+    "name": "Plush Rocking Horse",
+    "image": "products/rocking-horse.jpg",
+    "description": "Soft plush rocking horse with safety handles",
+    "price": "1499.00",
+    "stock": 10,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 20,
+  "fields": {
+    "created_at": "2025-10-17T06:21:20.611Z",
+    "updated_at": "2025-10-22T09:02:53.377Z",
+    "category": "toys",
+    "age_range": "2-3",
+    "name": "Building Blocks Set (102pc)",
+    "image": "products/building-blocks.jpg",
+    "description": "Colorful blocks with storage bag",
+    "price": "799.00",
+    "stock": 30,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 21,
+  "fields": {
+    "created_at": "2025-10-17T06:22:02.639Z",
+    "updated_at": "2025-10-22T09:02:39.389Z",
+    "category": "toys",
+    "age_range": "2-3",
+    "name": "Musical Instrument Set",
+    "image": "products/instrument-set.jpg",
+    "description": "Includes xylophone, maracas, tambourine, and more",
+    "price": "899.00",
+    "stock": 10,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 22,
+  "fields": {
+    "created_at": "2025-10-17T06:22:44.402Z",
+    "updated_at": "2025-10-22T09:02:46.051Z",
+    "category": "toys",
+    "age_range": "1-2",
+    "name": "Pull-Along Wooden Duck",
+    "image": "products/pull-duck.jpg",
+    "description": "Classic wooden toy that waddles when pulled",
+    "price": "499.00",
+    "stock": 15,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 23,
+  "fields": {
+    "created_at": "2025-10-17T06:23:39.999Z",
+    "updated_at": "2025-10-22T09:02:13.393Z",
+    "category": "toys",
+    "age_range": "6-12",
+    "name": "Stacking Rainbow Rings",
+    "image": "products/rainbow-stacker.jpg",
+    "description": "Wooden rainbow for color recognition and motor skills",
+    "price": "399.00",
+    "stock": 10,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.product",
+  "pk": 24,
+  "fields": {
+    "created_at": "2025-10-17T06:24:57.053Z",
+    "updated_at": "2025-10-22T09:02:06.825Z",
+    "category": "toys",
+    "age_range": "2-3",
+    "name": "Soft Book - Jungle Animals",
+    "image": "products/soft-book.jpg",
+    "description": "Crinkly fabric book with sensory elements",
+    "price": "349.00",
+    "stock": 15,
+    "status": "active"
+  }
+},
+{
+  "model": "backend.cart",
+  "pk": 48,
+  "fields": {
+    "created_at": "2025-10-22T08:40:48.790Z",
+    "updated_at": "2025-10-22T08:40:48.790Z",
+    "user": 3,
+    "product": 4,
+    "quantity": 1
+  }
+},
+{
+  "model": "backend.wishlist",
+  "pk": 18,
+  "fields": {
+    "created_at": "2025-10-20T15:15:21.390Z",
+    "updated_at": "2025-10-20T15:15:21.390Z",
+    "user": 4,
+    "product": 1
+  }
+},
+{
+  "model": "backend.wishlist",
+  "pk": 19,
+  "fields": {
+    "created_at": "2025-10-20T15:20:12.836Z",
+    "updated_at": "2025-10-20T15:20:12.836Z",
+    "user": 4,
+    "product": 2
+  }
+},
+{
+  "model": "backend.wishlist",
+  "pk": 20,
+  "fields": {
+    "created_at": "2025-10-20T15:21:37.149Z",
+    "updated_at": "2025-10-20T15:21:37.149Z",
+    "user": 4,
+    "product": 18
+  }
+},
+{
+  "model": "backend.wishlist",
+  "pk": 24,
+  "fields": {
+    "created_at": "2025-10-20T16:12:04.529Z",
+    "updated_at": "2025-10-20T16:12:04.529Z",
+    "user": 4,
+    "product": 3
+  }
+},
+{
+  "model": "backend.wishlist",
+  "pk": 25,
+  "fields": {
+    "created_at": "2025-10-20T16:12:17.914Z",
+    "updated_at": "2025-10-20T16:12:17.914Z",
+    "user": 4,
+    "product": 4
+  }
+},
+{
+  "model": "backend.wishlist",
+  "pk": 26,
+  "fields": {
+    "created_at": "2025-10-20T16:12:25.103Z",
+    "updated_at": "2025-10-20T16:12:25.103Z",
+    "user": 4,
+    "product": 5
+  }
+},
+{
+  "model": "backend.wishlist",
+  "pk": 28,
+  "fields": {
+    "created_at": "2025-10-22T08:46:47.723Z",
+    "updated_at": "2025-10-22T08:46:47.723Z",
+    "user": 3,
+    "product": 2
+  }
+},
+{
+  "model": "backend.wishlist",
+  "pk": 32,
+  "fields": {
+    "created_at": "2025-10-22T10:21:26.858Z",
+    "updated_at": "2025-10-22T10:21:26.858Z",
+    "user": 9,
+    "product": 2
+  }
+},
+{
+  "model": "backend.wishlist",
+  "pk": 33,
+  "fields": {
+    "created_at": "2025-10-22T10:21:28.368Z",
+    "updated_at": "2025-10-22T10:21:28.368Z",
+    "user": 9,
+    "product": 3
+  }
+},
+{
+  "model": "backend.order",
+  "pk": 6,
+  "fields": {
+    "created_at": "2025-10-20T15:13:58.156Z",
+    "updated_at": "2025-10-20T15:14:33.059Z",
+    "user": 4,
+    "order_id": "UFCYSBFPYS",
+    "subtotal": "948.00",
+    "shipping": "50.00",
+    "total_amount": "998.00",
+    "payment_method": "cash",
+    "status": "processing",
+    "payment_status": "pending",
+    "razorpay_payment_id": null,
+    "razorpay_order_id": null
+  }
+},
+{
+  "model": "backend.order",
+  "pk": 7,
+  "fields": {
+    "created_at": "2025-10-21T03:58:12.285Z",
+    "updated_at": "2025-10-21T03:58:12.285Z",
+    "user": 4,
+    "order_id": "TE2YWTYUMY",
+    "subtotal": "799.00",
+    "shipping": "50.00",
+    "total_amount": "849.00",
+    "payment_method": "card",
+    "status": "processing",
+    "payment_status": "paid",
+    "razorpay_payment_id": "pay_RVyzIFUBfbkJkX",
+    "razorpay_order_id": "order_RVyz4jU3HJMfql"
+  }
+},
+{
+  "model": "backend.order",
+  "pk": 8,
+  "fields": {
+    "created_at": "2025-10-21T05:01:01.988Z",
+    "updated_at": "2025-10-22T04:59:58.162Z",
+    "user": 4,
+    "order_id": "SXMAMRDAWC",
+    "subtotal": "1248.00",
+    "shipping": "50.00",
+    "total_amount": "1298.00",
+    "payment_method": "card",
+    "status": "Shipped",
+    "payment_status": "paid",
+    "razorpay_payment_id": "pay_RW03wtFDq8cWAM",
+    "razorpay_order_id": "order_RW03SHNLWFTfUE"
+  }
+},
+{
+  "model": "backend.order",
+  "pk": 9,
+  "fields": {
+    "created_at": "2025-10-21T17:36:07.434Z",
+    "updated_at": "2025-10-22T04:41:24.559Z",
+    "user": 3,
+    "order_id": "GHNM3TSNY3",
+    "subtotal": "2296.00",
+    "shipping": "50.00",
+    "total_amount": "2346.00",
+    "payment_method": "cash",
+    "status": "Delivered",
+    "payment_status": "pending",
+    "razorpay_payment_id": null,
+    "razorpay_order_id": null
+  }
+},
+{
+  "model": "backend.order",
+  "pk": 10,
+  "fields": {
+    "created_at": "2025-10-22T08:40:19.443Z",
+    "updated_at": "2025-10-22T08:40:19.443Z",
+    "user": 3,
+    "order_id": "KDENHL7VMS",
+    "subtotal": "1248.00",
+    "shipping": "50.00",
+    "total_amount": "1298.00",
+    "payment_method": "card",
+    "status": "processing",
+    "payment_status": "paid",
+    "razorpay_payment_id": "pay_RWSKkgKeJWBnDO",
+    "razorpay_order_id": "order_RWSKVwcABhn3kY"
+  }
+},
+{
+  "model": "backend.order",
+  "pk": 11,
+  "fields": {
+    "created_at": "2025-10-22T10:14:46.160Z",
+    "updated_at": "2025-10-22T10:24:03.156Z",
+    "user": 9,
+    "order_id": "AVHDJQ63XL",
+    "subtotal": "1797.00",
+    "shipping": "50.00",
+    "total_amount": "1847.00",
+    "payment_method": "card",
+    "status": "Shipped",
+    "payment_status": "paid",
+    "razorpay_payment_id": "pay_RWTwVQTgqCz2YY",
+    "razorpay_order_id": "order_RWTwLDWQ5QipiI"
+  }
+},
+{
+  "model": "backend.order",
+  "pk": 12,
+  "fields": {
+    "created_at": "2025-10-22T10:18:15.790Z",
+    "updated_at": "2025-10-22T10:18:15.790Z",
+    "user": 9,
+    "order_id": "PEQZ3FGKQB",
+    "subtotal": "1097.00",
+    "shipping": "50.00",
+    "total_amount": "1147.00",
+    "payment_method": "cash",
+    "status": "pending",
+    "payment_status": "pending",
+    "razorpay_payment_id": null,
+    "razorpay_order_id": null
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 4,
+  "fields": {
+    "created_at": "2025-10-20T15:13:59.902Z",
+    "updated_at": "2025-10-20T15:13:59.902Z",
+    "order": 6,
+    "product": 2,
+    "quantity": 1,
+    "price": "449.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 5,
+  "fields": {
+    "created_at": "2025-10-20T15:13:59.971Z",
+    "updated_at": "2025-10-20T15:13:59.971Z",
+    "order": 6,
+    "product": 4,
+    "quantity": 1,
+    "price": "499.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 6,
+  "fields": {
+    "created_at": "2025-10-21T03:58:14.212Z",
+    "updated_at": "2025-10-21T03:58:14.212Z",
+    "order": 7,
+    "product": 3,
+    "quantity": 1,
+    "price": "799.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 7,
+  "fields": {
+    "created_at": "2025-10-21T05:01:03.720Z",
+    "updated_at": "2025-10-21T05:01:03.720Z",
+    "order": 8,
+    "product": 2,
+    "quantity": 1,
+    "price": "449.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 8,
+  "fields": {
+    "created_at": "2025-10-21T05:01:03.767Z",
+    "updated_at": "2025-10-21T05:01:03.767Z",
+    "order": 8,
+    "product": 3,
+    "quantity": 1,
+    "price": "799.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 9,
+  "fields": {
+    "created_at": "2025-10-21T17:36:07.516Z",
+    "updated_at": "2025-10-21T17:36:07.516Z",
+    "order": 9,
+    "product": 2,
+    "quantity": 1,
+    "price": "449.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 10,
+  "fields": {
+    "created_at": "2025-10-21T17:36:07.573Z",
+    "updated_at": "2025-10-21T17:36:07.573Z",
+    "order": 9,
+    "product": 3,
+    "quantity": 1,
+    "price": "799.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 11,
+  "fields": {
+    "created_at": "2025-10-21T17:36:07.607Z",
+    "updated_at": "2025-10-21T17:36:07.607Z",
+    "order": 9,
+    "product": 7,
+    "quantity": 1,
+    "price": "549.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 12,
+  "fields": {
+    "created_at": "2025-10-21T17:36:07.643Z",
+    "updated_at": "2025-10-21T17:36:07.643Z",
+    "order": 9,
+    "product": 13,
+    "quantity": 1,
+    "price": "499.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 13,
+  "fields": {
+    "created_at": "2025-10-22T08:40:19.900Z",
+    "updated_at": "2025-10-22T08:40:19.900Z",
+    "order": 10,
+    "product": 2,
+    "quantity": 1,
+    "price": "449.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 14,
+  "fields": {
+    "created_at": "2025-10-22T08:40:19.934Z",
+    "updated_at": "2025-10-22T08:40:19.934Z",
+    "order": 10,
+    "product": 3,
+    "quantity": 1,
+    "price": "799.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 15,
+  "fields": {
+    "created_at": "2025-10-22T10:14:46.565Z",
+    "updated_at": "2025-10-22T10:14:46.565Z",
+    "order": 11,
+    "product": 3,
+    "quantity": 1,
+    "price": "799.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 16,
+  "fields": {
+    "created_at": "2025-10-22T10:14:46.599Z",
+    "updated_at": "2025-10-22T10:14:46.599Z",
+    "order": 11,
+    "product": 4,
+    "quantity": 2,
+    "price": "499.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 17,
+  "fields": {
+    "created_at": "2025-10-22T10:18:17.505Z",
+    "updated_at": "2025-10-22T10:18:17.505Z",
+    "order": 12,
+    "product": 5,
+    "quantity": 1,
+    "price": "299.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 18,
+  "fields": {
+    "created_at": "2025-10-22T10:18:17.541Z",
+    "updated_at": "2025-10-22T10:18:17.541Z",
+    "order": 12,
+    "product": 2,
+    "quantity": 1,
+    "price": "449.00"
+  }
+},
+{
+  "model": "backend.orderitem",
+  "pk": 19,
+  "fields": {
+    "created_at": "2025-10-22T10:18:17.575Z",
+    "updated_at": "2025-10-22T10:18:17.575Z",
+    "order": 12,
+    "product": 6,
+    "quantity": 1,
+    "price": "349.00"
+  }
+}
+]
